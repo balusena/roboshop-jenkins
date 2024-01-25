@@ -4,5 +4,6 @@
   vars:
     jobs:
       - roboshop-terraform
+      - cart
   roles:
     - jenkins-jobs
