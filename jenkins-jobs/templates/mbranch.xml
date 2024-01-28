@@ -22,7 +22,7 @@
         <data>
             <jenkins.branch.BranchSource>
                 <source class="jenkins.plugins.git.GitSCMSource" plugin="git@5.2.1">
-                    <id>a0a9c6eb-f43f-42cc-8901-75f33cd3d21f</id>
+                    <id>d0a8f078-93a1-4385-a4e7-70c148045417</id>
                     <remote>https://github.com/balusena/{{item}}</remote>
                     <credentialsId></credentialsId>
                     <traits>
