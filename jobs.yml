@@ -4,6 +4,7 @@
   vars:
     sp_jobs:
       - roboshop-terraform
+      - roboshop-ansible
     mp_jobs:
       - cart
       - catalogue
