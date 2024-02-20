@@ -5,6 +5,7 @@
     sp_jobs:
       - roboshop-terraform
       - roboshop-ansible
+      - roboshop-kubernetes
     mp_jobs:
       - cart
       - catalogue
