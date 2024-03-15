@@ -14,5 +14,6 @@
       - payment
       - frontend
       - aws-parameter-init-container
+      - schema-load-init-container
   roles:
     - jenkins-jobs
